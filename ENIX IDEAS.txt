@@ -1,0 +1,5 @@
+Call react from inside Elixir
+Call elixir from inside react
+
+Return a react component as part of a template? 
+

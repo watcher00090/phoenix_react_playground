@@ -1,0 +1,8 @@
+
+<head>
+</head>
+<body>
+  <div id="react-app"></div>
+  <%= @inner_content %>
+  <script type="text/javascript" src="<%= Routes.static_path(@conn, "/js/app.js") %>"></script>
+</body>

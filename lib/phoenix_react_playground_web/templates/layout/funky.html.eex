@@ -1,0 +1,7 @@
+<head></head>
+<link >
+<body>
+  <h1 id="gotcha">FUNKY FUNKY FUNKY FUNKY</h1>
+  <%= @inner_content %>
+  <script type="text/javascript" src="<%= Routes.static_path(@conn, "/js/app.js") %>"></script>
+</body>
